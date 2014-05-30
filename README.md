@@ -15,5 +15,4 @@ Ruby
 ###Pairing
 ----------
 For this project i paired with
-1. Lousie Lai
-2. Joseph Wolf 
+Lousie Lai & Joseph Wolf 
